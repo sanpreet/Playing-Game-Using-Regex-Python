@@ -1,4 +1,7 @@
-# Playing-Game-Using-Regex-Python
+# Playing-Game-Using-Regex-Python  
+
+![8382bf5d-0505-4875-9ade-bb3d53bc59f2](https://user-images.githubusercontent.com/3431730/79071838-6a489a80-7cfb-11ea-929d-c1e41fc405dc.jpeg)
+
 ## Playing a simple game using the follwing conditions which is set by me and Using Regular Expression in Python
 ### Email Validations using the following conditions :hushed:  
        1.) First character must be a alphabet
